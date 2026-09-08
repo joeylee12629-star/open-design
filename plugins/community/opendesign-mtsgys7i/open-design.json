@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "opendesign-mtsgys7i",
+  "title": "OpenDesign 官网设计系统（实测提取）",
+  "version": "0.1.0",
+  "description": "- 来源：https://open-design.ai/zh/ 首页 - 方法：2026-09-08 用 Playwright 读取 `:root` 变量与各元素 computed styles（1440×900 视口），截图留底 `research/od-home-hero.jpeg` - 用途：活动页 `index.html` 的 `:root` token 与组件规格全部取自本文；未在官网实测到的值标「待补」",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "candidateId": "b02f3e9f-2e12-499a-8bf6-ba024270fcbc",
+  "projectId": "e232b852-fa78-4449-a308-a1a45be99048",
+  "runId": "3ff46947-f969-4b35-86b1-671ecdb19151",
+  "conversationId": "37ea23c9-bc91-4445-b953-4f1de484e8ee",
+  "provenance": {
+    "summary": "Detected from design-system.md after a successful run.",
+    "detectedAt": 1788859691012
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "design-system.md",
+      "label": "design-system.md",
+      "size": 7483,
+      "copied": true
+    }
+  ]
+}
